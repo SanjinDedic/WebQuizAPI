@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "multiple_choice",
+    "question": "Who is Leeds United's current manager?",
+    "options": [
+      "Paul Heckingbottom",
+      "Thomas Christiansen",
+      "Garry Monk",
+      "None of the above"
+    ],
+    "answer": "b",
+    "points": 10,
+    "image_link": ""
+  },
+  {
+    "id": 2,
+    "type": "short_answer",
+    "question": "What year were Leeds United founded?",
+    "answer": "1919",
+    "points": 10,
+    "image_link": "https://en.wikipedia.org/wiki/Leeds_United_A.F.C.#/media/File:Leeds_United_Logo.svg"
+  },
+  {
+    "id": 3,
+    "type": "multiple_choice",
+    "question": "Which of the following trophies has Leeds United NOT won?",
+    "options": [
+      "FA Cup",
+      "League Cup",
+      "Champions League",
+      "None of the above"
+    ],
+    "answer": "c",
+    "points": 10,
+    "image_link": ""
+  }
+]
