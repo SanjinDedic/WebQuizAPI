@@ -52,9 +52,9 @@ c.execute('''CREATE TABLE grokkers
 def random_color():
     #return a random cloor in hex, make the brightness of each Color > 120
     import random
-    r = random.randint(120, 255)
-    g = random.randint(120, 255)
-    b = random.randint(120, 255)
+    r = random.randint(80, 255)
+    g = random.randint(80, 255)
+    b = random.randint(80, 255)
     return f"#{r:02x}{g:02x}{b:02x}"
 
 
